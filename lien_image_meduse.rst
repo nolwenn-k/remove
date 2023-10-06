@@ -1,1 +1,2 @@
-`Lien vers une méduse libre de droit <https://www.pexels.com/fr-fr/photo/meduse-1894344/>`_
+*Lien vers l'image
+.. image:: pexels-guillaume-meurice-1894344.jpg
