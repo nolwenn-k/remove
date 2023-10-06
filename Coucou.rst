@@ -1,1 +1,1 @@
-`lien vers l'iamge http://clipart-library.com/clip-art/cute-dog-transparent-11.htm`
+.. image:: cute-dog-transparent-11.png
